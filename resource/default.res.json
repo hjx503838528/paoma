@@ -1,0 +1,166 @@
+{
+	"groups": [
+		{
+			"keys": "CHEER_mp3,END_mp3,RUN_mp3,START1_mp3,START2_mp3,bg_png,endTop_png,h0_json,h0_png,h1_json,h1_png,h2_json,h2_png,h3_json,h3_png,h4_json,h4_png,h5_json,h5_png,h6_json,h6_png,h7_json,h7_png,h8_json,h8_png,h9_json,h9_png,num_json,resule_png,paoma_json",
+			"name": "preload"
+		},
+		{
+			"keys": "bg_png,endTop_png,h0_json,h0_png,h1_json,h1_png,h9_png,h9_json,h8_png,h8_json,h7_png,h7_json,h6_png,h6_json,h5_png,h5_json,h4_png,h4_json,h3_png,h3_json,h2_png,h2_json,num_json,resule_png,paoma_json,END_mp3,RUN_mp3,START1_mp3,START2_mp3,CHEER_mp3",
+			"name": "game"
+		}
+	],
+	"resources": [
+		{
+			"url": "sound/CHEER.mp3",
+			"type": "sound",
+			"name": "CHEER_mp3"
+		},
+		{
+			"url": "sound/END.mp3",
+			"type": "sound",
+			"name": "END_mp3"
+		},
+		{
+			"url": "sound/RUN.mp3",
+			"type": "sound",
+			"name": "RUN_mp3"
+		},
+		{
+			"url": "sound/START1.mp3",
+			"type": "sound",
+			"name": "START1_mp3"
+		},
+		{
+			"url": "sound/START2.mp3",
+			"type": "sound",
+			"name": "START2_mp3"
+		},
+		{
+			"url": "imges/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"url": "imges/endTop.png",
+			"type": "image",
+			"name": "endTop_png"
+		},
+		{
+			"url": "imges/h0.json",
+			"type": "json",
+			"name": "h0_json"
+		},
+		{
+			"url": "imges/h0.png",
+			"type": "image",
+			"name": "h0_png"
+		},
+		{
+			"url": "imges/h1.json",
+			"type": "json",
+			"name": "h1_json"
+		},
+		{
+			"url": "imges/h1.png",
+			"type": "image",
+			"name": "h1_png"
+		},
+		{
+			"url": "imges/h2.json",
+			"type": "json",
+			"name": "h2_json"
+		},
+		{
+			"url": "imges/h2.png",
+			"type": "image",
+			"name": "h2_png"
+		},
+		{
+			"url": "imges/h3.json",
+			"type": "json",
+			"name": "h3_json"
+		},
+		{
+			"url": "imges/h3.png",
+			"type": "image",
+			"name": "h3_png"
+		},
+		{
+			"url": "imges/h4.json",
+			"type": "json",
+			"name": "h4_json"
+		},
+		{
+			"url": "imges/h4.png",
+			"type": "image",
+			"name": "h4_png"
+		},
+		{
+			"url": "imges/h5.json",
+			"type": "json",
+			"name": "h5_json"
+		},
+		{
+			"url": "imges/h5.png",
+			"type": "image",
+			"name": "h5_png"
+		},
+		{
+			"url": "imges/h6.json",
+			"type": "json",
+			"name": "h6_json"
+		},
+		{
+			"url": "imges/h6.png",
+			"type": "image",
+			"name": "h6_png"
+		},
+		{
+			"url": "imges/h7.json",
+			"type": "json",
+			"name": "h7_json"
+		},
+		{
+			"url": "imges/h7.png",
+			"type": "image",
+			"name": "h7_png"
+		},
+		{
+			"url": "imges/h8.json",
+			"type": "json",
+			"name": "h8_json"
+		},
+		{
+			"url": "imges/h8.png",
+			"type": "image",
+			"name": "h8_png"
+		},
+		{
+			"url": "imges/h9.json",
+			"type": "json",
+			"name": "h9_json"
+		},
+		{
+			"url": "imges/h9.png",
+			"type": "image",
+			"name": "h9_png"
+		},
+		{
+			"url": "imges/num.json",
+			"type": "sheet",
+			"name": "num_json",
+			"subkeys": "num_1,num_10,num_2,num_3,num_4,num_5,num_6,num_7,num_8,num_9"
+		},
+		{
+			"url": "imges/resule.png",
+			"type": "image",
+			"name": "resule_png"
+		},
+		{
+			"url": "imges/paoma.json",
+			"type": "sheet",
+			"name": "paoma_json",
+			"subkeys": "end_lineA,end_lineB,logo,race_bg,race_head,sound_close,sound_open,start_lineA,start_lineB,timeBg"
+		}
+	]
+}
